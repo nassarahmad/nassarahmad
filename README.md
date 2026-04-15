@@ -37,33 +37,33 @@
 ## 🛠️ Featured Projects
 
 ### 🔥 Smart Whats up App
-> Real-time chat https://drive.google.com/file/d/1MiIul0zIWARRwfz7c3iKHG5vSd5EjyPM/view?usp=drive_link 
+> Real-time chat
 
 - 🌍 Live Map
 - 💬 Real-time Chat (WebSocket)
 - 🏆 Badge System
 
-👉 [View Project](#)
+👉 [ https://drive.google.com/file/d/1MiIul0zIWARRwfz7c3iKHG5vSd5EjyPM/view?usp=drive_link ](#)
 
 ---
 
-### 📊 Admin Dashboard
-> Analytics dashboard with charts
+### 📊 E- Commerce Responsive 
+> Shopping With CRUD Operation 
 
-- 📈 Charts & Reports
+- 📈 Responsive
 - 🧠 Clean UI
 - 🌙 Dark Mode
 
-👉 [View Project](#)
+👉 [ https://ahmad-markiting-ddfd21.netlify.app/](#)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Weather App User And Admin Dashboard
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Weather]([https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical](https://github.com/nassarahmad/WeatherAppUser))
 
 ---
 
 ## 📫 Contact Me
 - Email: ahmad.m.nassarr@gmail.com
-- LinkedIn: # https://www.linkedin.com/in/ahmadnassar99/
+- LinkedIn:  https://www.linkedin.com/in/ahmadnassar99/
