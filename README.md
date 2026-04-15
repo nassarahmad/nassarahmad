@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Real-time Systems</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Node.js+Expert;React+Lover;Always+Learning&center=true&width=500&height=50">
+</p>
 ---
 
 ## 🚀 About Me
